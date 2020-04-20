@@ -1,0 +1,10 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\logiclayer\bin\Debug\logiclayer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\logiclayer\bin\Debug\logiclayer.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\logiclayer\bin\Debug\dataaccesslayer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\logiclayer\bin\Debug\entity_layer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\logiclayer\bin\Debug\dataaccesslayer.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\logiclayer\bin\Debug\entity_layer.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\logiclayer\obj\Debug\logiclayer.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\logiclayer\obj\Debug\logiclayer.csproj.CopyComplete
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\logiclayer\obj\Debug\logiclayer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\logiclayer\obj\Debug\logiclayer.pdb

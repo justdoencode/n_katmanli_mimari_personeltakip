@@ -1,0 +1,5 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\entity_layer\bin\Debug\entity_layer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\entity_layer\bin\Debug\entity_layer.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\entity_layer\obj\Debug\entity_layer.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\entity_layer\obj\Debug\entity_layer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\entity_layer\obj\Debug\entity_layer.pdb

@@ -1,0 +1,8 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\dataaccesslayer\bin\Debug\dataaccesslayer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\dataaccesslayer\bin\Debug\dataaccesslayer.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\dataaccesslayer\bin\Debug\entity_layer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\dataaccesslayer\bin\Debug\entity_layer.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\dataaccesslayer\obj\Debug\dataaccesslayer.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\dataaccesslayer\obj\Debug\dataaccesslayer.csproj.CopyComplete
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\dataaccesslayer\obj\Debug\dataaccesslayer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\dataaccesslayer\obj\Debug\dataaccesslayer.pdb

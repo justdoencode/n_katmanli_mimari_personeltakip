@@ -1,0 +1,16 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\bin\Debug\n_katmanli_mimari_personeltakip.exe.config
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\bin\Debug\n_katmanli_mimari_personeltakip.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\bin\Debug\n_katmanli_mimari_personeltakip.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\bin\Debug\dataaccesslayer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\bin\Debug\entity_layer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\bin\Debug\logiclayer.dll
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\bin\Debug\dataaccesslayer.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\bin\Debug\entity_layer.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\bin\Debug\logiclayer.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\obj\Debug\n_katmanli_mimari_personeltakip.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\obj\Debug\n_katmanli_mimari_personeltakip.frm_anasayfa.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\obj\Debug\n_katmanli_mimari_personeltakip.Properties.Resources.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\obj\Debug\n_katmanli_mimari_personeltakip.csproj.GenerateResource.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\obj\Debug\n_katmanli_mimari_personeltakip.csproj.CopyComplete
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\obj\Debug\n_katmanli_mimari_personeltakip.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\n_katmanli_mimari_personeltakip\n_katmanli_mimari_personeltakip\obj\Debug\n_katmanli_mimari_personeltakip.pdb
